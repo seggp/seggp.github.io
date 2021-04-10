@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nanlv11.top</id>
     <title>南吕拾一</title>
-    <updated>2021-04-09T09:19:09.797Z</updated>
+    <updated>2021-04-10T01:12:30.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nanlv11.top"/>
     <link rel="self" href="https://nanlv11.top/atom.xml"/>
@@ -10,6 +10,43 @@
     <logo>https://nanlv11.top/images/avatar.png</logo>
     <icon>https://nanlv11.top/favicon.ico</icon>
     <rights>All rights reserved 2021, 南吕拾一</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在电脑上安装ps等abode的软件]]></title>
+        <id>https://nanlv11.top/post/ru-he-zai-dian-nao-shang-an-zhuang-ps-deng-abode-de-ruan-jian/</id>
+        <link href="https://nanlv11.top/post/ru-he-zai-dian-nao-shang-an-zhuang-ps-deng-abode-de-ruan-jian/">
+        </link>
+        <updated>2021-04-10T00:47:20.000Z</updated>
+        <content type="html"><![CDATA[<p>最近知乎上的提问，总是有不知道这怎么安装ps的。</p>
+<p>我是个长期使用ps的设计狮</p>
+<p>作为长达10几年之久的使用者</p>
+<p>就告诉你，装ps，只需要三步</p>
+<ol>
+<li>点击下载</li>
+<li>点击安装</li>
+<li>点击完成</li>
+</ol>
+<p>完事！~</p>
+<blockquote>
+<p>系统：macos，windows全面覆盖</p>
+</blockquote>
+<figure data-type="image" tabindex="1"><img src="https://gitee.com/381311636/drawing-bed/raw/master/uPic/image-20210410085420051.png" alt="image-20210410085420051" loading="lazy"></figure>
+<blockquote>
+<p>版本：从2018到2021，应有尽有</p>
+</blockquote>
+<figure data-type="image" tabindex="2"><img src="https://gitee.com/381311636/drawing-bed/raw/master/uPic/image-20210410085637353.png" alt="image-20210410085637353" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://gitee.com/381311636/drawing-bed/raw/master/uPic/image-20210410085656601.png" alt="image-20210410085656601" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://gitee.com/381311636/drawing-bed/raw/master/uPic/image-20210410085714115.png" alt="image-20210410085714115" loading="lazy"></figure>
+<blockquote>
+<p>从ps，ai到pr，ae你都能找到</p>
+</blockquote>
+<figure data-type="image" tabindex="5"><img src="https://gitee.com/381311636/drawing-bed/raw/master/uPic/image-20210410085814741.png" alt="image-20210410085814741" loading="lazy"></figure>
+<blockquote>
+<p>天翼云下载</p>
+<p>https://cloud.189.cn/t/ZveuEvFfyIRz（访问码：7iqy）</p>
+<p>如有解压密码，请输入@vposy</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学分享，文明上网，v2ray免费节点分享]]></title>
         <id>https://nanlv11.top/post/ke-xue-fen-xiang-wen-ming-shang-wang/</id>
