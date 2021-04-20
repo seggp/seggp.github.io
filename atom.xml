@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nanlv11.top</id>
+    <id>https://songergou.top</id>
     <title>南吕拾一</title>
-    <updated>2021-04-10T02:10:08.695Z</updated>
+    <updated>2021-04-20T02:42:23.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://nanlv11.top"/>
-    <link rel="self" href="https://nanlv11.top/atom.xml"/>
+    <link rel="alternate" href="https://songergou.top"/>
+    <link rel="self" href="https://songergou.top/atom.xml"/>
     <subtitle>书写为了更好的思考。</subtitle>
-    <logo>https://nanlv11.top/images/avatar.png</logo>
-    <icon>https://nanlv11.top/favicon.ico</icon>
+    <logo>https://songergou.top/images/avatar.png</logo>
+    <icon>https://songergou.top/favicon.ico</icon>
     <rights>All rights reserved 2021, 南吕拾一</rights>
     <entry>
         <title type="html"><![CDATA[如何在电脑上安装ps等abode的软件]]></title>
-        <id>https://nanlv11.top/post/ru-he-zai-dian-nao-shang-an-zhuang-ps-deng-abode-de-ruan-jian/</id>
-        <link href="https://nanlv11.top/post/ru-he-zai-dian-nao-shang-an-zhuang-ps-deng-abode-de-ruan-jian/">
+        <id>https://songergou.top/post/ru-he-zai-dian-nao-shang-an-zhuang-ps-deng-abode-de-ruan-jian/</id>
+        <link href="https://songergou.top/post/ru-he-zai-dian-nao-shang-an-zhuang-ps-deng-abode-de-ruan-jian/">
         </link>
         <updated>2021-04-10T00:47:20.000Z</updated>
         <content type="html"><![CDATA[<p>最近知乎上的提问，总是有不知道这怎么安装ps的。</p>
@@ -49,8 +49,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[科学分享，文明上网，v2ray免费节点分享]]></title>
-        <id>https://nanlv11.top/post/ke-xue-fen-xiang-wen-ming-shang-wang/</id>
-        <link href="https://nanlv11.top/post/ke-xue-fen-xiang-wen-ming-shang-wang/">
+        <id>https://songergou.top/post/ke-xue-fen-xiang-wen-ming-shang-wang/</id>
+        <link href="https://songergou.top/post/ke-xue-fen-xiang-wen-ming-shang-wang/">
         </link>
         <updated>2021-04-09T01:27:10.000Z</updated>
         <content type="html"><![CDATA[<h2 id="免费节点订阅"><strong>免费节点订阅</strong></h2>
